@@ -168,6 +168,9 @@
     <Media Include="resources\music.mp3" />
     <Media Include="resources\pickup.mp3" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
